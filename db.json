@@ -17,24 +17,24 @@
     { "id": 10, "body": "some comment 10", "postId": 3 },
     { "id": 11, "body": "some comment 11", "postId": 3 },
     { "id": 12, "body": "some comment 12", "postId": 3 },
-    { "id": 13, "body": "some comment 13", "postId": 3 },
+    { "id": 13, "body": "some comment 13", "postId": 3 }
   ],
   "users": [{
-    "id": 1"
+    "id": 1,
     "name": "User1",
     "active": false
   },
   {
-    "id": 2"
+    "id": 2,
     "name": "User1",
     "active": true
   },
   {
-    "id": 3"
+    "id": 3,
     "name": "User1",
     "active": true
   }],
   "permissions": [
     "ADMIN"
-  ],
+  ]
 }
